@@ -14,7 +14,7 @@ https://raghavarora27.github.io/LinkedList-Visualizer/
 4. Remove Node based on Index/Data
 
 ## Technologies Used
-<h2>HTML, CSS, Javascript, Animations</h2><a href="https://github.com/Raghavarora27?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" style="max-width: 100%;"> </a>
+<h3>HTML, CSS, Javascript, Animations</h3><a href="https://github.com/Raghavarora27?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" style="max-width: 100%;"> </a>
 <a href="https://github.com/Raghavarora27?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" style="max-width: 100%;"></a>
 <a href="https://github.com/Raghavarora27?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" style="max-width: 100%;"></a>
 
